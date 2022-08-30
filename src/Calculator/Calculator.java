@@ -1,7 +1,7 @@
 package Calculator;
 
 import java.util.Scanner;
-//Author
+//Author edited
 public class Calculator {
 	public static void main(String[] args) {
 	      double num1;
